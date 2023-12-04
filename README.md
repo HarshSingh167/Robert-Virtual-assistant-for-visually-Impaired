@@ -61,11 +61,9 @@ Tech- stacks used:
  Download the credential for Google Vision API.
  Copy and paste the files at thr required position.
  
- 
+ pip install -r requirements.txt
  ```
  Run Code:
-pip install -r requirements.txt
- 
  ```
  python main.py
  ```
