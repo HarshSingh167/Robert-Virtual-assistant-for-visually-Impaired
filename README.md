@@ -63,8 +63,8 @@ Tech- stacks used:
  
  
  ```
- 
  Run Code:
+pip install -r requirements.txt
  
  ```
  python main.py
